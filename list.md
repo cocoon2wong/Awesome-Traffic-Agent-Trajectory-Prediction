@@ -2,7 +2,7 @@
  * @Author: Conghao Wong
  * @Date: 2022-07-21 16:42:57
  * @LastEditors: Conghao Wong
- * @LastEditTime: 2022-07-21 16:49:50
+ * @LastEditTime: 2022-07-21 17:19:57
  * @Description: file content
  * @Github: https://github.com/cocoon2wong
  * Copyright 2022 Conghao Wong, All Rights Reserved.
@@ -39,38 +39,38 @@
 ******
 
 # Traditional Methods
-- [x] Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
+- [x] ~~Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]~~
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
 * A methodology for automated trajectory prediction analysis, AIAA Guidance, Navigation, and Control Conference and Exhibit 2004. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.2942&rep=rep1&type=pdf)]
 * Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
 * New Algorithms for Aircraft Intent Inference and Trajectory Prediction, Journal of guidance, control, and dynamics 2007. [[paper](https://sci-hub.hkvisa.net/10.2514/1.26750)]
 * Reciprocal Velocity Obstacles for Real-Time Multi-Agent Navigation, ICRA 2008. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9395&rep=rep1&type=pdf)]
-- [x] You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
+- [x] ~~You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]~~
 * Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
 * People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
-- [x] Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
-- [x] Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]
+- [x] ~~Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]~~
+- [x] ~~Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]~~
 * Social force model with explicit collision prediction, Europhysics Letters 2011. [[paper](https://iopscience.iop.org/article/10.1209/0295-5075/93/68005/pdf)]
 * A Machine Learning Approach to Trajectory Prediction, AIAA Guidance, Navigation, and Control (GNC) Conference 2013. [[paper](https://sci-hub.hkvisa.net/10.2514/6.2013-4782)]
 * Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
-- [x] Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
+- [x] ~~Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]~~
 
 
 # 2018 and Before Conference and Journal Papers
 ## Conference Papers
-- [x] Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]
-- [x] Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]
+- [x] ~~Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)] [[code](https://github.com/agrimgupta92/sgan)]~~
+- [x] ~~Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.pdf)] [[code](https://github.com/svip-lab/CIDNN)]~~
 * Fast and Furious: Real Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Fast_and_Furious_CVPR_2018_paper.pdf)]
 * MX-LSTM: Mixing Tracklets and Vislets to Jointly Forecast Trajectories and Head Poses, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hasan_MX-LSTM_Mixing_Tracklets_CVPR_2018_paper.pdf)]
-- [x] Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf)] [[code](https://github.com/apratimbhattacharyya18/onboard_long_term_prediction)]
-- [x] R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting, ECCV 2018. [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf)]
+- [x] ~~Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty, CVPR 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Long-Term_On-Board_Prediction_CVPR_2018_paper.pdf)] [[code](https://github.com/apratimbhattacharyya18/onboard_long_term_prediction)]~~
+- [x] ~~R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting, ECCV 2018. [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nicholas_Rhinehart_R2P2_A_ReparameteRized_ECCV_2018_paper.pdf)]~~
 * Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders, ECCV 2018. [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf)]
 * Generating Comfortable, Safe and Comprehensible Trajectories for Automated Vehicles in Mixed Traffic, International Conference on Intelligent Transportation Systems (ITSC 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569658)]
 * Set-Based Prediction of Pedestrians in Urban Environments Considering Formalized Traffic Rules, ITSC 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569434)]
 * Intention-aware Long Horizon Trajectory Prediction of Surrounding Vehicles using Dual LSTM Networks, ITSC 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8569595)]
-- [x] Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]
+- [x] ~~Social Attention: Modeling Attention in Human Crowds, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460504)]~~
 * A Data-driven Model for Interaction-Aware Pedestrian Motion Prediction in Object Cluttered Environments, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461157)]
 * Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction, ICRA 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460766)] [[code](https://github.com/StanfordASL/TrafficWeavingCVAE)]
 * GD-GAN: Generative Adversarial Networks for Trajectory Prediction and Group Detection in Crowds, ACCV 2018. [[paper](https://arxiv.org/pdf/1812.07667.pdf)]
@@ -79,32 +79,32 @@
 * Predicting Trajectories of Vehicles Using Large-Scale Motion Priors, IV 2018. [[paper](http://mssuraj.com/publications/2018_IV_0596.pdf)]
 * Road Infrastructure Indicators for Trajectory Prediction, IV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8500678)]
 * Mixed Traffic Trajectory Prediction Using LSTM–Based Models in Shared Space, Annual International Conference on Geographic Information Science 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-78208-9_16.pdf)]
-- [x] SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354239)] [[code](https://github.com/xuehaouwa/SS-LSTM)]
+- [x] ~~SS-LSTM: A Hierarchical LSTM Model for Pedestrian Trajectory Prediction, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354239)] [[code](https://github.com/xuehaouwa/SS-LSTM)]~~
 * “Seeing is Believing”: Pedestrian Trajectory Forecasting Using Visual Frustum of Attention, WACV 2018. [[paper](http://irtizahasan.com/WACV_2018_Seeing_is_believing.pdf)]
 * Tracking by Prediction: A Deep Generative Model for Mutli-person Localisation and Tracking, WACV 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354232)]
-- [x] Context-Aware Trajectory Prediction, International Conference on Pattern Recognition (ICPR 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545447)]
+- [x] ~~Context-Aware Trajectory Prediction, International Conference on Pattern Recognition (ICPR 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8545447)]~~
 * Transferable Pedestrian Motion Prediction Models at Intersections, IROS 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593783)]
 * Generative Modeling of Multimodal Multi-Human Behavior, IROS 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594393)] [[code](https://github.com/StanfordASL/NHumanModeling)]
 * Building Prior Knowledge: A Markov Based Pedestrian Prediction Model Using Urban Environmental Data, International Conference on Control, Automation, Robotics and Vision (ICARCV 2018). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8581368)]
 * Cyclist Trajectory Prediction Using Bidirectional Recurrent Neural Networks, Australasian Joint Conference on Artificial Intelligence 2018. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-03991-2_28.pdf)]
-- [x] Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]
+- [x] ~~Attention Is All You Need, NIPS 2017. [[paper](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)]~~
 * Bi-Prediction: Pedestrian Trajectory Prediction Based on Bidirectional LSTM Classification, International Conference on Digital Image Computing: Techniques and Applications (DICTA 2017). [[paper](https://www.researchgate.net/profile/Du-Huynh-2/publication/322001876_Bi-Prediction_Pedestrian_Trajectory_Prediction_Based_on_Bidirectional_LSTM_Classification/links/5c03cef4a6fdcc1b8d5029bb/Bi-Prediction-Pedestrian-Trajectory-Prediction-Based-on-Bidirectional-LSTM-Classification.pdf)]
-- [x] Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317943)]
+- [x] ~~Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317943)]~~
 * Natural Vision Based Method for Predicting Pedestrian Behaviour in Urban Environments, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317848)]
 * How good is my prediction? Finding a similarity measure for trajectory prediction evaluation, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317825)]
 * An LSTM network for highway trajectory prediction, ITSC 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8317913)]
-- [x] DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf)] [[code](https://github.com/tdavchev/DESIRE)]
+- [x] ~~DESIRE: Distant Future Prediction in Dynamic Scenes with Interacting Agents, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Lee_DESIRE_Distant_Future_CVPR_2017_paper.pdf)] [[code](https://github.com/tdavchev/DESIRE)]~~
 * Forecasting Interactive Dynamics of Pedestrians with Fictitious Play, CVPR 2017. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ma_Forecasting_Interactive_Dynamics_CVPR_2017_paper.pdf)]
-- [x] Forecast the Plausible Paths in Crowd Scenes, IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0386.pdf)]
+- [x] ~~Forecast the Plausible Paths in Crowd Scenes, IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0386.pdf)]~~
 * What will Happen Next? Forecasting Player Moves in Sports Videos, ICCV 2017. [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Felsen_What_Will_Happen_ICCV_2017_paper.pdf)]
 * Using road topology to improve cyclist path prediction, IV 2017. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995734)]
 * Short-term 4D Trajectory Prediction Using Machine Learning Methods, Proc. SID 2017. [[paper](https://www.sesarju.eu/sites/default/files/documents/sid/2017/SIDs_2017_paper_11.pdf)]
 * Generating Long-term Trajectories Using Deep Hierarchical Networks, NIPS 2016. [[paper](https://proceedings.neurips.cc/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf)]
-- [x] Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]
+- [x] ~~Learning Social Etiquette: Human Trajectory Understanding In Crowded Scenes, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46484-8_33.pdf)]~~
 * Knowledge Transfer for Scene-Specific Motion Prediction, ECCV 2016. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-46448-0_42.pdf)]
-- [x] Structural-RNN: Deep Learning on Spatio-Temporal Graphs, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)] [[code](https://github.com/asheshjain399/RNNexp)]
+- [x] ~~Structural-RNN: Deep Learning on Spatio-Temporal Graphs, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf)] [[code](https://github.com/asheshjain399/RNNexp)]~~
 * Visual Path Prediction in Complex Scenes with Crowded Moving Objects, CVPR 2016. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf)]
-- [x] Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]
+- [x] ~~Social LSTM: Human Trajectory Prediction in Crowded Spaces, CVPR 2016. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)] [[code](https://github.com/quancore/social-lstm)]~~
 * Comparison and Evaluation of Pedestrian Motion Models for Vehicle Safety Systems, ITSC 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7795912)]
 * Intent-aware long-term prediction of pedestrian motion, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487409)]
 * Novel planning-based algorithms for human motion prediction, ICRA 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7487505)]
@@ -135,7 +135,7 @@
 * Monte Carlo based Threat Assessment: Analysis and Improvements, IV 2007. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4290120)]
 * Gaussian Processes in Machine Learning, Summer school on machine learning 2003. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-540-28650-9_4.pdf)]
 ## Journal Papers
-- [x] Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]
+- [x] ~~Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection, Neural networks 2018. [[paper](https://arxiv.org/pdf/1702.05552.pdf?ref=https://githubhelp.com)]~~
 * Long-term path prediction in urban scenarios using circular distributions, Image and Vision Computing 2018. [[paper](https://reader.elsevier.com/reader/sd/pii/S0262885617301853?token=DAD7B9F10835E05341405E75C5AB9F8F114FE99410544AD2BB4EFAA23BFC99D63EA8811C4A8C4F679593A61D0D3E35B6&originRegion=eu-west-1&originCreation=20220509082210)]
 * An Efficient Algorithm for Optimal Trajectory Generation for Heterogeneous Multi-Agent Systems in Non-Convex Environments, RAL 2018. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8260912)]
 * Network-Wide Vehicle Trajectory Prediction in Urban Traffic Networks using Deep Learning, Transportation Research Record 2018. [[paper](https://www.researchgate.net/profile/Seongjin-Choi-2/publication/327524033_Network-Wide_Vehicle_Trajectory_Prediction_in_Urban_Traffic_Networks_using_Deep_Learning/links/5e3a123e458515072d8015d2/Network-Wide-Vehicle-Trajectory-Prediction-in-Urban-Traffic-Networks-using-Deep-Learning.pdf)]
@@ -162,9 +162,9 @@
 * A new approach to linear filtering and prediction problems, Journal of Basic Engineering 1960. [[paper](http://160.78.24.2/Public/Kalman/Kalman1960.pdf)]
 
 ## Others
-- [x] An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]
-- [x] Scene-LSTM: A Model for Human Trajectory Prediction, arXiv preprint arXiv:1808.04018, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.04018.pdf)]
-- [x] Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]
+- [x] ~~An Evaluation of Trajectory Prediction Approaches and Notes on the TrajNet Benchmark. arXiv preprint arXiv:1805.07663, 2018. [[paper](https://arxiv.org/pdf/1805.07663.pdf)]~~
+- [x] ~~Scene-LSTM: A Model for Human Trajectory Prediction, arXiv preprint arXiv:1808.04018, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1808/1808.04018.pdf)]~~
+- [x] ~~Convolutional Social Pooling for Vehicle Trajectory Prediction, CVPR Workshops 2018. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w29/Deo_Convolutional_Social_Pooling_CVPR_2018_paper.pdf)] [[code](https://github.com/nachiket92/conv-social-pooling)]~~
 * Convolutional Neural Network for Trajectory Prediction, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Nikhil_Convolutional_Neural_Network_for_Trajectory_Prediction_ECCVW_2018_paper.pdf)]
 * Group LSTM: Group Trajectory Prediction in Crowded Scenarios, ECCV Workshops 2018. [[paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11131/Bisagno_Group_LSTM_Group_Trajectory_Prediction_in_Crowded_Scenarios_ECCVW_2018_paper.pdf)]
 * Human Trajectory Prediction using Spatially aware Deep Attention Models, arXiv preprint arXiv:1705.09436, 2017. [[paper](https://arxiv.org/pdf/1705.09436.pdf)]
@@ -172,41 +172,41 @@
 
 # 2019 Conference and Journal Papers
 ## Conference Papers 2019
-- [x] MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]
+- [x] ~~MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction, Conference on Robot Learning (CoRL 2019). [[paper](https://arxiv.org/pdf/1910.05449.pdf)]~~
 * Generating Multi-Agent Trajectories using Programmatic Weak Supervision, ICLR 2019. [[paper](https://arxiv.org/pdf/1803.07612.pdf)] [[code](https://github.com/ezhan94/multiagent-programmatic-supervision)]
 * Stochastic Prediction of Multi-Agent Interactions from Partial Observations, ICLR 2019. [[paper](https://arxiv.org/pdf/1902.09641.pdf)]
-- [x] TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents, AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4569/4447)] [[code](https://github.com/huang-xx/TrafficPredict)]
+- [x] ~~TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents, AAAI 2019. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/4569/4447)] [[code](https://github.com/huang-xx/TrafficPredict)]~~
 * Data-Driven Crowd Simulation with Generative Adversarial Networks, International Conference on Computer Animation and Social Agents (CASA 2019). [[paper](https://dl.acm.org/doi/pdf/10.1145/3328756.3328769)] [[code](https://github.com/amiryanj/crowdGAN)]
 * RobustTP: End-to-End Trajectory Prediction for Heterogeneous Road-Agents in Dense Traffic with Noisy Sensor Inputs, ACM Computer Science in Cars Symposium (CSCS 2019). [[paper](https://dl.acm.org/doi/pdf/10.1145/3359999.3360495)] [[code](https://github.com/rohanchandra30/TrackNPred)]
 * Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Which_Way_Are_You_Going_Imitative_Decision_Learning_for_Path_CVPR_2019_paper.pdf)]
-- [x] Multi-Agent Tensor Fusion for Contextual Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/programmingLearner/MATF-architecture-details)]
-- [x] Peeking into the Future: Predicting Future Person Activities and Locations in Videos, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)] [[code](https://github.com/google/next-prediction)] [[website](https://next.cs.cmu.edu/)]
-- [x] SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf)] [[code](https://github.com/coolsunxu/sophie)]
-- [x] SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/zhangpur/SR-LSTM)]
-- [x] TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf)] [[code](https://github.com/BenMSK/trajectory_prediction_TraPHic)]
+- [x] ~~Multi-Agent Tensor Fusion for Contextual Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_Multi-Agent_Tensor_Fusion_for_Contextual_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/programmingLearner/MATF-architecture-details)]~~
+- [x] ~~Peeking into the Future: Predicting Future Person Activities and Locations in Videos, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liang_Peeking_Into_the_Future_Predicting_Future_Person_Activities_and_Locations_CVPR_2019_paper.pdf)] [[code](https://github.com/google/next-prediction)] [[website](https://next.cs.cmu.edu/)]~~
+- [x] ~~SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sadeghian_SoPhie_An_Attentive_GAN_for_Predicting_Paths_Compliant_to_Social_CVPR_2019_paper.pdf)] [[code](https://github.com/coolsunxu/sophie)]~~
+- [x] ~~SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_SR-LSTM_State_Refinement_for_LSTM_Towards_Pedestrian_Trajectory_Prediction_CVPR_2019_paper.pdf)] [[code](https://github.com/zhangpur/SR-LSTM)]~~
+- [x] ~~TraPHic: Trajectory Prediction in Dense and Heterogeneous Traffic Using Weighted Interactions, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chandra_TraPHic_Trajectory_Prediction_in_Dense_and_Heterogeneous_Traffic_Using_Weighted_CVPR_2019_paper.pdf)] [[code](https://github.com/BenMSK/trajectory_prediction_TraPHic)]~~
 * Overcoming Limitations of Mixture Density Networks: A Sampling and Fitting Framework for Multimodal Future Prediction, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Makansi_Overcoming_Limitations_of_Mixture_Density_Networks_A_Sampling_and_Fitting_CVPR_2019_paper.pdf)] [[code](https://github.com/lmb-freiburg/Multimodal-Future-Prediction)]
 * Argoverse: 3D Tracking and Forecasting with Rich Maps, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Argoverse_3D_Tracking_and_Forecasting_With_Rich_Maps_CVPR_2019_paper.pdf)] [[code](https://github.com/argoai/argoverse-api)]
 * Diverse Generation for Multi-agent Sports Games, CVPR 2019. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yeh_Diverse_Generation_for_Multi-Agent_Sports_Games_CVPR_2019_paper.pdf)]
 * Looking to Relations for Future Trajectory Forecast, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Looking_to_Relations_for_Future_Trajectory_Forecast_ICCV_2019_paper.pdf)]
-- [x] Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf)]
-- [x] The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.pdf)] [[code](https://github.com/StanfordASL/Trajectron)]
+- [x] ~~Analyzing the Variety Loss in the Context of Probabilistic Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Thiede_Analyzing_the_Variety_Loss_in_the_Context_of_Probabilistic_Trajectory_ICCV_2019_paper.pdf)]~~
+- [x] ~~The Trajectron: Probabilistic Multi-Agent Trajectory Modeling With Dynamic Spatiotemporal Graphs, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ivanovic_The_Trajectron_Probabilistic_Multi-Agent_Trajectory_Modeling_With_Dynamic_Spatiotemporal_Graphs_ICCV_2019_paper.pdf)] [[code](https://github.com/StanfordASL/Trajectron)]~~
 * Joint Prediction for Kinematic Trajectories in Vehicle-Pedestrian-Mixed Scenes, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bi_Joint_Prediction_for_Kinematic_Trajectories_in_Vehicle-Pedestrian-Mixed_Scenes_ICCV_2019_paper.pdf)]
-- [x] STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)] [[code](https://github.com/huang-xx/STGAT)]
+- [x] ~~STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.pdf)] [[code](https://github.com/huang-xx/STGAT)]~~
 * PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction, ICCV 2019. [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rasouli_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_ICCV_2019_paper.pdf)] [[code](https://github.com/aras62/PIEPredict)]
 * A New Multi-vehicle Trajectory Generator to Simulate Vehicle-to-Vehicle Encounters, ICRA 2019. [[paper](https://arxiv.org/pdf/1809.05680.pdf)]
-- [x] Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793868)]
+- [x] ~~Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793868)]~~
 * Force-based Heterogeneous Traffic Simulation for Autonomous Vehicle Testing, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794430)]
 * Interaction-aware Multi-agent Tracking and Probabilistic Behavior Prediction via Adversarial Learning, ICRA 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793661)]
-- [x] StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967811)]
+- [x] ~~StarNet: Pedestrian Trajectory Prediction using Deep Neural Network in Star Topology, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967811)]~~
 * Deep Predictive Autonomous Driving Using Multi-Agent Joint Trajectory Prediction and Traffic Rules, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967708)]
 * Conditional Generative Neural System for Probabilistic Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967822)]
 * Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967615)]
 * INFER: INtermediate representations for FuturE pRediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968553)] [[code](https://github.com/talsperre/INFER)] [[website](https://talsperre.github.io/INFER/)]
 * Stochastic Sampling Simulation for Pedestrian Trajectory Prediction, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967857)]
 * Long-term Prediction of Motion Trajectories Using Path Homology Clusters, IROS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8968125)]
-- [x] Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)]
+- [x] ~~Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d09bf41544a3365a46c9077ebb5e35c3-Paper.pdf)]~~
 * Multiple Futures Prediction, NIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/86a1fa88adb5c33bd7a68ac2f9f3f96b-Paper.pdf)] [[code](https://github.com/apple/ml-multiple-futures-prediction)]
-- [x] Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, International Symposium on Visual Computing (ISVC 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-33720-9_19.pdf)]
+- [x] ~~Trajectory Prediction by Coupling Scene-LSTM with Human Movement LSTM, International Symposium on Visual Computing (ISVC 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-33720-9_19.pdf)]~~
 * Pedestrian Trajectory Prediction Using a Social Pyramid, Pacific Rim International Conference on Artificial Intelligence (PRICAI 2019). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-29911-8_34.pdf)]
 * Situation-Aware Pedestrian Trajectory Prediction with Spatio-Temporal Attention Model, Computer Vision Winter Workshop (CVWW 2019). [[paper](https://arxiv.org/pdf/1902.05437.pdf)]
 * Location-Velocity Attention for Pedestrian Trajectory Prediction, WACV 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659060)]
@@ -222,7 +222,7 @@
 * Human Trajectory Prediction using Adversarial Loss, Proceedings of the 19th Swiss Transport Research Conference 2019. [[paper](https://www.strc.ch/2019/Kothari_Alahi.pdf)] [[code](https://github.com/vita-epfl/AdversarialLoss-SGAN)]
 
 ## Journal Papers 2019
-- [x] A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]
+- [x] ~~A Scalable Framework for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658195)]~~
 * Contextual Recurrent Predictive Model for Long-Term Intent Prediction of Vulnerable Road Users, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8766889&tag=1)]
 * Interactive Trajectory Prediction of Surrounding Road Users for Autonomous Driving Using Structural-LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848853)]
 * A Deep Learning-Based Framework for Intersectional Traffic Simulation and Editing, TVCG. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8600335)]
@@ -234,27 +234,27 @@
 ## Others 2019
 * Joint Interaction and Trajectory Prediction for Autonomous Driving using Graph Neural Networks, arXiv preprint arXiv:1912.07882, 2019. [[paper](https://arxiv.org/pdf/1912.07882.pdf)]
 * Learning to Infer Relations for Future Trajectory Forecast, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)]
-- [x] Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
-- [x] Social and Scene-Aware Trajectory Prediction in Crowded Spaces, ICCV Workshops 2019. [[paper](https://arxiv.org/pdf/1909.08840.pdf)] [[code](https://github.com/Oghma/sns-lstm/)]
+- [x] ~~Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]~~
+- [x] ~~Social and Scene-Aware Trajectory Prediction in Crowded Spaces, ICCV Workshops 2019. [[paper](https://arxiv.org/pdf/1909.08840.pdf)] [[code](https://github.com/Oghma/sns-lstm/)]~~
 * Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
 * Stochastic Trajectory Prediction with Social Graph Network, arXiv preprint arXiv:1907.10233, 2019. [[paper](https://arxiv.org/pdf/1907.10233.pdf)]
 
 # 2020 Conference and Journal Papers
 ## Conference Papers 2020
-- [x] Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]
+- [x] ~~Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://arxiv.org/pdf/2005.08514.pdf)] [[code](https://github.com/Majiker/STAR)]~~
 * AutoTrajectory: Label-Free Trajectory Extraction and Prediction from Videos Using Dynamic Points, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_38.pdf)]
 * PiP: Planning-Informed Trajectory Prediction for Autonomous Driving, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_36.pdf)] [[code](https://github.com/Haoran-SONG/PiP-Planning-informed-Prediction)]
 * SMART: Simultaneous Multi-Agent Recurrent Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58583-9_28.pdf)]
-- [x] Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58523-5_40.pdf)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)]
-- [x] SimAug: Learning Robust Representations from Simulation for Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_17.pdf)] [[code](https://next.cs.cmu.edu/simaug/)]
+- [x] ~~Trajectron++: Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58523-5_40.pdf)] [[code](https://github.com/StanfordASL/Trajectron-plus-plus)]~~
+- [x] ~~SimAug: Learning Robust Representations from Simulation for Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58601-0_17.pdf)] [[code](https://next.cs.cmu.edu/simaug/)]~~
 * Diverse and Admissible Trajectory Forecasting Through Multimodal Context Understanding, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58621-8_17.pdf)] [[code](https://github.com/kami93/CMU-DATF)]
-- [x] It Is Not the Journey But the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_45.pdf)] [[code](https://github.com/HarshayuGirase/Human-Path-Prediction)]
+- [x] ~~It Is Not the Journey But the Destination: Endpoint Conditioned Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_45.pdf)] [[code](https://github.com/HarshayuGirase/Human-Path-Prediction)]~~
 * How Can I See My Future? FvTraj: Using First-Person View for Pedestrian Trajectory Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58571-6_34.pdf)]
 * Dynamic and Static Context-Aware LSTM for Multi-agent Motion Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_33.pdf)]
 * Learning Lane Graph Representations for Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_32.pdf)] [[code](https://github.com/uber-research/LaneGCN)]
 * Implicit Latent Variable Model for Scene-Consistent Motion Forecasting, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58592-1_37.pdf)]
 * Testing the Safety of Self-driving Vehicles by Simulating Perception and Prediction, ECCV 2020. [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58574-7_19.pdf)]
-- [x] Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
+- [x] ~~Transformer Networks for Trajectory Forecasting, International Conference on Pattern Recognition (ICPR 2020). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412190)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]~~
 * DAG-Net: Double Attentive Graph Neural Network for Trajectory Forecasting, ICPR 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9412114)] [[code](https://github.com/alexmonti19/dagnet)]
 * TNT: Target-driveN Trajectory Prediction, Conference on Robot Learning (CoRL 2020). [[paper](https://arxiv.org/pdf/2008.08294.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
 * Social-VRNN: One-Shot Multi-modal Trajectory Prediction for Interacting Pedestrians, CoRL 2020. [[paper](https://autonomousrobots.nl/docs/20-Brito-CoRL.pdf)] [[code](https://github.com/tud-amr/social_vrnn)]
@@ -263,7 +263,7 @@
 * OpenTraj: Assessing Prediction Complexity in Human Trajectories Datasets, ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Amirian_OpenTraj_Assessing_Prediction_Complexity_in_Human_Trajectories_Datasets_ACCV_2020_paper.pdf)] [[code](https://github.com/crowdbotp/OpenTraj)]
 * Goal-GAN: Multimodal Trajectory Prediction Based on Goal Position Estimation, ACCV 2020. [[paper](https://arxiv.org/pdf/2010.01114.pdf)] [[code](https://github.com/dendorferpatrick/GoalGAN)]
 * Semantic Synthesis of Pedestrian Locomotion, ACCV 2020. [[paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Priisalu_Semantic_Synthesis_of_Pedestrian_Locomotion_ACCV_2020_paper.pdf)] [[code](https://github.com/MariaPriisalu/spl)]
-- [x] EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/e4d8163c7a068b65a64c89bd745ec360-Paper.pdf)]
+- [x] ~~EvolveGraph: Multi-Agent Trajectory Prediction with Dynamic Relational Reasoning, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/e4d8163c7a068b65a64c89bd745ec360-Paper.pdf)]~~
 * Multi-agent Trajectory Prediction with Fuzzy Query Attention, NIPS 2020. [[paper](https://proceedings.neurips.cc/paper/2020/file/fe87435d12ef7642af67d9bc82a8b3cd-Paper.pdf)] [[code](https://github.com/nitinkamra1992/FQA)]
 * Spatio-Temporal Graph Structure Learning for Traffic Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5470/5326)]
 * GMAN: A Graph Multi-Attention Network for Traffic Prediction, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5477/5333)] [[code](https://github.com/zhengchuanpan/GMAN)]
@@ -271,13 +271,13 @@
 * OMuLeT: Online Multi-Lead Time Location Prediction for Hurricane Trajectory Forecasting, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/5444/5300)]
 * Multimodal Interaction-Aware Trajectory Prediction in Crowded Space, AAAI 2020. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/6874/6728)]
 * STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_STINet_Spatio-Temporal-Interactive_Network_for_Pedestrian_Detection_and_Trajectory_Prediction_CVPR_2020_paper.pdf)]
-- [x] CoverNet: Multimodal Behavior Prediction using Trajectory Sets, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan-Minh_CoverNet_Multimodal_Behavior_Prediction_Using_Trajectory_Sets_CVPR_2020_paper.pdf)]
+- [x] ~~CoverNet: Multimodal Behavior Prediction using Trajectory Sets, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan-Minh_CoverNet_Multimodal_Behavior_Prediction_Using_Trajectory_Sets_CVPR_2020_paper.pdf)]~~
 * TPNet: Trajectory Proposal Network for Motion Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fang_TPNet_Trajectory_Proposal_Network_for_Motion_Prediction_CVPR_2020_paper.pdf)]
 * Reciprocal Learning Networks for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Reciprocal_Learning_Networks_for_Human_Trajectory_Prediction_CVPR_2020_paper.pdf)]
-- [x] MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Marchetti_MANTRA_Memory_Augmented_Networks_for_Multiple_Trajectory_Prediction_CVPR_2020_paper.pdf)]
-- [x] Recursive Social Behavior Graph for Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf)]
-- [x] The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf)] [[code](https://github.com/google/next-prediction)]
-- [x] Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/abduallahmohamed/Social-STGCNN)]
+- [x] ~~MANTRA: Memory Augmented Networks for Multiple Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Marchetti_MANTRA_Memory_Augmented_Networks_for_Multiple_Trajectory_Prediction_CVPR_2020_paper.pdf)]~~
+- [x] ~~Recursive Social Behavior Graph for Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.pdf)]~~
+- [x] ~~The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liang_The_Garden_of_Forking_Paths_Towards_Multi-Future_Trajectory_Prediction_CVPR_2020_paper.pdf)] [[code](https://github.com/google/next-prediction)]~~
+- [x] ~~Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.pdf)] [[code](https://github.com/abduallahmohamed/Social-STGCNN)]~~
 * VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf)] [[code](https://github.com/DQSSSSS/VectorNet)]
 * Imitative Non-Autoregressive Modeling for Trajectory Forecasting and Imputation, CVPR 2020. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Imitative_Non-Autoregressive_Modeling_for_Trajectory_Forecasting_and_Imputation_CVPR_2020_paper.pdf)]
 * UST: Unifying Spatio-Temporal Context for Trajectory Prediction in Autonomous Driving, IROS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340943)]
@@ -293,26 +293,26 @@
 
 ## Journal Papers 2020
 * TrajVAE: A Variational AutoEncoder model for trajectory generation, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)]
-- [x] Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]
+- [x] ~~Social-Aware Pedestrian Trajectory Prediction via States Refinement LSTM, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261113)]~~
 * Forecasting Trajectory and Behavior of Road-Agents Using Spectral Clustering in Graph-LSTMs, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9126166)]
 * Attention Based Vehicle Trajectory Prediction, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084255)]
 * AC-VRNN: Attentive Conditional-VRNN for multi-future trajectory prediction, Computer Vision and Image Understanding. [[paper](https://reader.elsevier.com/reader/sd/pii/S1077314221000898?token=F06466B50D3AE170EC14D460C1AFE91DFE5D61047357252C808857A2BBD4FE4CF2FF3076AD391F842F155CAD2B102C5F&originRegion=eu-west-1&originCreation=20220421024623)]
 * PoPPL: Pedestrian Trajectory Prediction by LSTM With Automatic Route Class Clustering, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9031707)]
-- [x] Real Time Trajectory Prediction Using Deep Conditional Generative Models, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957482)]
+- [x] ~~Real Time Trajectory Prediction Using Deep Conditional Generative Models, IEEE Robotics and Automation Letters. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8957482)]~~
 * Scene Compliant Trajectory Forecast with Agent-Centric Spatio-Temporal Grids, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000540)]
-- [x] What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]
+- [x] ~~What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction, RAL. [[paper](https://arxiv.org/pdf/1903.07933.pdf)] [[code](https://github.com/cschoeller/constant_velocity_pedestrian_motion)]~~
 * Multimodal Deep Generative Models for Trajectory Prediction: A Conditional Variational Autoencoder Approach, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9286482)]
 * Deep Context Maps: Agent Trajectory Prediction using Location-specific Latent Maps, RAL. [[paper](http://ras.papercept.net/images/temp/IROS/files/2532.pdf)]
 * Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9309332)] [[code](https://github.com/tdavchev/structured-trajectory-prediction), [code](https://github.com/tdavchev/Stochastic-Futures-Prediction)]
 * Probabilistic Crowd GAN: Multimodal Pedestrian Trajectory Prediction Using a Graph Vehicle-Pedestrian Attention Network, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9123560)]
 * Multimodal Interaction-aware Motion Prediction for Autonomous Street Crossing, International Journal of Robotics Research. [[paper](https://arxiv.org/pdf/1808.06887)]
-- [x] Pedestrian Trajectory Prediction Based on Deep Convolutional LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043898)] [[code](https://github.com/ParadiseCK/DeepConvLstmNet)]
+- [x] ~~Pedestrian Trajectory Prediction Based on Deep Convolutional LSTM Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9043898)] [[code](https://github.com/ParadiseCK/DeepConvLstmNet)]~~
 * Multi-Vehicle Collaborative Learning for Trajectory Prediction With Spatio-Temporal Tensor Fusion, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9151374)]
 * Multiple Trajectory Prediction of Moving Agents with Memory Augmented Networks, TPAMI. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9138768)]
 
 ## Others 2020
-- [x] Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]
-- [x] Robust Trajectory Forecasting for Multiple Intelligent Agents in Dynamic Scene, arXiv preprint arXiv:2005.13133, 2020. [[paper](https://arxiv.org/pdf/2005.13133.pdf)]
+- [x] ~~Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507.pdf)]~~
+- [x] ~~Robust Trajectory Forecasting for Multiple Intelligent Agents in Dynamic Scene, arXiv preprint arXiv:2005.13133, 2020. [[paper](https://arxiv.org/pdf/2005.13133.pdf)]~~
 * Map-Adaptive Goal-Based Trajectory Prediction, arXiv preprint arXiv:2009.04450, 2020. [[paper](https://arxiv.org/pdf/2009.04450.pdf)]
 * A Spatial-Temporal Attentive Network with Spatial Continuity for Trajectory Prediction, arXiv preprint arXiv:2003.06107, 2020. [[paper](https://arxiv.org/pdf/2003.06107v1.pdf)]
 * Trajformer: Trajectory Prediction with Local Self-Attentive Contexts for Autonomous Driving, arXiv preprint arXiv:2011.14910, 2020. [[paper](https://arxiv.org/pdf/2011.14910.pdf)] [[code](https://github.com/Manojbhat09/Trajformer)]
@@ -321,7 +321,7 @@
 * Social-WaGDAT: Interaction-aware Trajectory Prediction via Wasserstein Graph Double-Attention Network, arXiv preprint arXiv:2002.06241, 2020. [[paper](https://arxiv.org/pdf/2002.06241.pdf)]
 * Trajectory Forecasts in Unknown Environments Conditioned on Grid-Based Plans, arXiv preprint arXiv:2001.00735, 2020. [[paper](https://arxiv.org/pdf/2001.00735.pdf)] [[code](https://github.com/nachiket92/P2T)]
 * Multi-modal Trajectory Prediction for Autonomous Driving with Semantic Map and Dynamic Graph Attention Network, NIPS Workshops 2020. [[paper](https://arxiv.org/pdf/2103.16273.pdf)]
-- [x] Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507v1.pdf)]
+- [x] ~~Scene Gated Social Graph: Pedestrian Trajectory Prediction Based on Dynamic Social Graphs and Scene Constraints, arXiv preprint arXiv:2010.05507, 2020. [[paper](https://arxiv.org/pdf/2010.05507v1.pdf)]~~
 
 # 2021 Conference and Journal Papers
 ## Conference Papers 2021
@@ -330,28 +330,28 @@
 * LibCity: An Open Library for Traffic Prediction, SIGSPATIAL 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923)] [[code](https://github.com/LibCity/Bigscity-LibCity)]
 * Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575242)]
 * Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast, ICRA 2021. [[paper](https://arxiv.org/pdf/2011.04853.pdf)]
-- [x] AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]
+- [x] ~~AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]~~
 * Exploring Dynamic Context for Multi-path Trajectory Prediction, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562034)] [[code](https://github.com/wtliao/DCENet)]
 * Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks, ICRA 2021. [[paper](https://www.researchgate.net/publication/346614349_Pedestrian_Trajectory_Prediction_using_Context-Augmented_Transformer_Networks)] [[code](https://github.com/KhaledSaleh/Context-Transformer-PedTraj)]
 * Spectral Temporal Graph Neural Network for Trajectory Prediction, ICRA 2021. [[paper](https://arxiv.org/pdf/2106.02930.pdf)]
 * Congestion-aware Multi-agent Trajectory Prediction for Collision Avoidance, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560994)] [[code](https://github.com/xuxie1031/CollisionFreeMultiAgentTrajectoryPrediciton)]
 * Anticipatory Navigation in Crowds by Probabilistic Prediction of Pedestrian Future Movements, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561022)]
-- [x] AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/Khrylx/AgentFormer)] [[website](https://ye-yuan.com/agentformer/)]
+- [x] ~~AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yuan_AgentFormer_Agent-Aware_Transformers_for_Socio-Temporal_Multi-Agent_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/Khrylx/AgentFormer)] [[website](https://ye-yuan.com/agentformer/)]~~
 * Likelihood-Based Diverse Sampling for Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jason_Likelihood-Based_Diverse_Sampling_for_Trajectory_Forecasting_ICCV_2021_paper.pdf)] [[code](https://github.com/JasonMa2016/LDS)]
 * MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction, ICCV 2021. [[paper](https://arxiv.org/pdf/2108.09274.pdf)] [[code](https://github.com/selflein/MG-GAN)]
-- [x] Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Spatial-Temporal_Consistency_Network_for_Low-Latency_Trajectory_Forecasting_ICCV_2021_paper.pdf)]
-- [x] Three Steps to Multimodal Trajectory Prediction: Modality Clustering, Classification and Synthesis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Three_Steps_to_Multimodal_Trajectory_Prediction_Modality_Clustering_Classification_and_ICCV_2021_paper.pdf)]
-- [x] From Goals, Waypoints & Paths To Long Term Human Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mangalam_From_Goals_Waypoints__Paths_to_Long_Term_Human_Trajectory_ICCV_2021_paper.pdf)] [[code](https://karttikeya.github.io/publication/ynet/)]
+- [x] ~~Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Spatial-Temporal_Consistency_Network_for_Low-Latency_Trajectory_Forecasting_ICCV_2021_paper.pdf)]~~
+- [x] ~~Three Steps to Multimodal Trajectory Prediction: Modality Clustering, Classification and Synthesis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sun_Three_Steps_to_Multimodal_Trajectory_Prediction_Modality_Clustering_Classification_and_ICCV_2021_paper.pdf)]~~
+- [x] ~~From Goals, Waypoints & Paths To Long Term Human Trajectory Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mangalam_From_Goals_Waypoints__Paths_to_Long_Term_Human_Trajectory_ICCV_2021_paper.pdf)] [[code](https://karttikeya.github.io/publication/ynet/)]~~
 * Where are you heading? Dynamic Trajectory Prediction with Expert Goal Examples, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Where_Are_You_Heading_Dynamic_Trajectory_Prediction_With_Expert_Goal_ICCV_2021_paper.pdf)] [[code](https://github.com/JoeHEZHAO/expert_traj)]
 * DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_DenseTNT_End-to-End_Trajectory_Prediction_From_Dense_Goal_Sets_ICCV_2021_paper.pdf)]
 * Safety-aware Motion Prediction with Unseen Vehicles for Autonomous Driving, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ren_Safety-Aware_Motion_Prediction_With_Unseen_Vehicles_for_Autonomous_Driving_ICCV_2021_paper.pdf)] [[code](https://github.com/xrenaa/Safety-Aware-Motion-Prediction)]
-- [x] LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[dataset](https://usa.honda-ri.com/loki)]
-- [x] Human Trajectory Prediction via Counterfactual Analysis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Human_Trajectory_Prediction_via_Counterfactual_Analysis_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/CausalHTP)]
-- [x] Personalized Trajectory Prediction via Distribution Discrimination, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Personalized_Trajectory_Prediction_via_Distribution_Discrimination_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/DisDis)]
+- [x] ~~LOKI: Long Term and Key Intentions for Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[dataset](https://usa.honda-ri.com/loki)]~~
+- [x] ~~Human Trajectory Prediction via Counterfactual Analysis, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Human_Trajectory_Prediction_via_Counterfactual_Analysis_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/CausalHTP)]~~
+- [x] ~~Personalized Trajectory Prediction via Distribution Discrimination, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Personalized_Trajectory_Prediction_via_Distribution_Discrimination_ICCV_2021_paper.pdf)] [[code](https://github.com/CHENGY12/DisDis)]~~
 * Unlimited Neighborhood Interaction for Heterogeneous Trajectory Prediction, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Unlimited_Neighborhood_Interaction_for_Heterogeneous_Trajectory_Prediction_ICCV_2021_paper.pdf)] [[code](https://github.com/zhengfang1997/Unlimited-Neighborhood-Interaction-for-Heterogeneous-Trajectory-Prediction)]
-- [x] Social NCE: Contrastive Learning of Socially-aware Motion Representations, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Social_NCE_Contrastive_Learning_of_Socially-Aware_Motion_Representations_ICCV_2021_paper.pdf)] [[code](https://github.com/vita-epfl/social-nce)]
-- [x] RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.pdf)]
-- [x] Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision, AAAI 2021. [[paper](https://arxiv.org/pdf/2012.01884.pdf)]
+- [x] ~~Social NCE: Contrastive Learning of Socially-aware Motion Representations, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Social_NCE_Contrastive_Learning_of_Socially-Aware_Motion_Representations_ICCV_2021_paper.pdf)] [[code](https://github.com/vita-epfl/social-nce)]~~
+- [x] ~~RAIN: Reinforced Hybrid Attention Inference Network for Motion Forecasting, ICCV 2021. [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_RAIN_Reinforced_Hybrid_Attention_Inference_Network_for_Motion_Forecasting_ICCV_2021_paper.pdf)]~~
+- [x] ~~Temporal Pyramid Network for Pedestrian Trajectory Prediction with Multi-Supervision, AAAI 2021. [[paper](https://arxiv.org/pdf/2012.01884.pdf)]~~
 * SCAN: A Spatial Context Attentive Network for Joint Multi-Agent Intent Prediction, AAAI 2021. [[paper](https://arxiv.org/pdf/2102.00109.pdf)]
 * Disentangled Multi-Relational Graph Convolutional Network for Pedestrian Trajectory Prediction, AAAI 2021. [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1677.BaeI.pdf)]
 * MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_MotionRNN_A_Flexible_Model_for_Video_Prediction_With_Spacetime-Varying_Motions_CVPR_2021_paper.pdf)]
@@ -360,8 +360,8 @@
 * LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_LaPred_Lane-Aware_Prediction_of_Multi-Modal_Future_Trajectories_of_Dynamic_Agents_CVPR_2021_paper.pdf)]
 * Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction, CVPR 2021. [[paper](https://arxiv.org/pdf/2104.08277.pdf)]
 * Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)] [[dataset](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/euro-pvi-dataset)]
-- [x] Trajectory Prediction with Latent Belief Energy-Based Model, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Trajectory_Prediction_With_Latent_Belief_Energy-Based_Model_CVPR_2021_paper.pdf)] [[code](https://github.com/bpucla/lbebm)]
-- [x] Shared Cross-Modal Trajectory Prediction for Autonomous Driving, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)]
+- [x] ~~Trajectory Prediction with Latent Belief Energy-Based Model, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Trajectory_Prediction_With_Latent_Belief_Energy-Based_Model_CVPR_2021_paper.pdf)] [[code](https://github.com/bpucla/lbebm)]~~
+- [x] ~~Shared Cross-Modal Trajectory Prediction for Autonomous Driving, CVPR 2021. [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)]~~
 * Multimodal Transformer Network for Pedestrian Trajectory Prediction, IJCAI 2021. [[paper](https://www.ijcai.org/proceedings/2021/0174.pdf)] [[code](https://github.com/ericyinyzy/MTN_trajectory)]
 * Decoder Fusion RNN: Context and Interaction Aware Decoders for Trajectory Prediction, IROS 2021. [[paper](https://arxiv.org/pdf/2108.05814.pdf)]
 * Joint Intention and Trajectory Prediction Based on Transformer, IROS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636241)]
@@ -374,14 +374,14 @@
 * Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals, CoRL 2021. [[paper](https://proceedings.mlr.press/v164/deo22a.html)] [[code](https://github.com/nachiket92/PGP)]
 * Pose Based Trajectory Forecast of Vulnerable Road Users Using Recurrent Neural Networks, International Conference on Pattern Recognition (ICPR 2021). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-030-68763-2_5.pdf)]
 * GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_GraphTCN_Spatio-Temporal_Interaction_Modeling_for_Human_Trajectory_Prediction_WACV_2021_paper.pdf)]
-- [x] Goal-driven Long-Term Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tran_Goal-Driven_Long-Term_Trajectory_Prediction_WACV_2021_paper.pdf)]
+- [x] ~~Goal-driven Long-Term Trajectory Prediction, WACV 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Tran_Goal-Driven_Long-Term_Trajectory_Prediction_WACV_2021_paper.pdf)]~~
 * Self-Growing Spatial Graph Network for Context-Aware Pedestrian Trajectory Prediction, IEEE International Conference on Image Processing (ICIP 2021). [[paper](https://arxiv.org/pdf/2012.06320v2.pdf)] [[code](https://github.com/serenetech90/AOL_ovsc)]
 * S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving, Asian Conference on Machine Learning 2021. [[paper](https://arxiv.org/pdf/2206.10902.pdf)] [[code](https://github.com/chenghuang66/s2tnet)]
 
 ## Journal Papers 2021
 * Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
 * Injecting knowledge in data-driven vehicle trajectory predictors, Transportation Research: Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21000425?token=F03D20769BFB255F56662C10348A81F3D07A42C6B4AB9BA19E3F7B2A5F1DA7D99B96B783616BDA86C12866AFCF4C5671&originRegion=eu-west-1&originCreation=20220506090622)] [[code](https://github.com/vita-epfl/RRB)]
-- [x] Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]
+- [x] ~~Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]~~
 * NetTraj: A Network-Based Vehicle Trajectory Prediction Model With Directional Representation and Spatiotemporal Attention Mechanisms, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9629362)]
 * Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9491972)]
 * A Hierarchical Framework for Interactive Behaviour Prediction of Heterogeneous Traffic Participants Based on Graph Neural Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9468360&tag=1)]
@@ -389,21 +389,21 @@
 * A context-aware pedestrian trajectory prediction framework for automated vehicles, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2104.08123.pdf)]
 * Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, IEEE ROBOTICS AND AUTOMATION LETTERS. [[paper](https://www.gilitschenski.org/igor/publications/202104-ral-logic_gan/ral21-logic_gan.pdf)]
 * Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms, IEEE Intelligent Transportation Systems Magazine. [[paper](http://urdata.net/files/2020_VTP.pdf)] [[code](https://github.com/leilin-research/VTP)]
-- [x] Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]
+- [x] ~~Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]~~
 * Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction, IEEE Transactions on Network Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373939)]
 * An efficient Spatial–Temporal model based on gated linear units for trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018907?token=C894F657732BB6078B77AEC9BD3858338C1A7F1254CCC0BBC34ADA1421A95CF9A4F68BDCA8812457DE27FB37EEB8F198&originRegion=us-east-1&originCreation=20220420144432)]
 * SRAI-LSTM: A Social Relation Attention-based Interaction-aware LSTM for human trajectory prediction, Neurocomputing. [[paper](https://reader.elsevier.com/reader/sd/pii/S0925231221018014?token=BB22DAAC41E3BF453C326A9D72A0CC900C2DFFD0D8AE07B7DEED51C7F2250B9CB40CC89B6812CA20DBFA6A7EDD32AAD6&originRegion=us-east-1&originCreation=20220512100647)]
-- [x] AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S092523122100388X)]
+- [x] ~~AST-GNN: An attention-based spatio-temporal graph neural network for Interaction-aware pedestrian trajectory prediction, Neurocomputing. [[paper](https://www.sciencedirect.com/science/article/pii/S092523122100388X)]~~
 * Multi-PPTP: Multiple Probabilistic Pedestrian Trajectory Prediction in the Complex Junction Scene, IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9619864)]
-- [x] A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]
+- [x] ~~A Novel Graph-Based Trajectory Predictor With Pseudo-Oracle, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9447207)]~~
 * Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN, Journal of Data Science. [[paper](https://www.jds-online.com/files/JDS202001-08.pdf)] [[code](https://github.com/XingruiWang/Two-Stage-Gan-in-trajectory-generation)]
 * Pose and Semantic Map Based Probabilistic Forecast of Vulnerable Road Users’ Trajectories, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9707640)]
 * STI-GAN: Multimodal Pedestrian Trajectory Prediction Using Spatiotemporal Interactions and a Generative Adversarial Network, IEEE Access. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9387292)]
-- [x] Holistic LSTM for Pedestrian Trajectory Prediction, TIP. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9361440)]
-- [x] Pedestrian trajectory prediction with convolutional neural networks, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321004325)]
-- [x] LSTM based trajectory prediction model for cyclist utilizing multiple interactions with environment, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320306038)]
-- [x] Human trajectory prediction and generation using LSTM models and GANs, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S003132032100323X)]
-- [x] Vehicle trajectory prediction and generation using LSTM models and GANs, Plos one. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253868)]
+- [x] ~~Holistic LSTM for Pedestrian Trajectory Prediction, TIP. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9361440)]~~
+- [x] ~~Pedestrian trajectory prediction with convolutional neural networks, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320321004325)]~~
+- [x] ~~LSTM based trajectory prediction model for cyclist utilizing multiple interactions with environment, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320320306038)]~~
+- [x] ~~Human trajectory prediction and generation using LSTM models and GANs, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S003132032100323X)]~~
+- [x] ~~Vehicle trajectory prediction and generation using LSTM models and GANs, Plos one. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253868)]~~
 * BiTraP: Bi-Directional Pedestrian Trajectory Prediction With Multi-Modal Goal Estimation, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9345445)] [[code](https://github.com/umautobots/bidireaction-trajectory-prediction)]
 * A Kinematic Model for Trajectory Prediction in General Highway Scenarios, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472993)]
 * Trajectory Prediction in Autonomous Driving With a Lane Heading Auxiliary Loss, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9387075)]
@@ -423,68 +423,68 @@
 * SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, arXiv preprint arXiv:2112.02459, 2021. [[paper](https://arxiv.org/pdf/2112.02459)]
 * GOHOME: Graph-Oriented Heatmap Output for future Motion Estimation, arXiv preprint arXiv:2109.01827, 2021. [[paper](https://arxiv.org/pdf/2109.01827.pdf)]
 * THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling, arXiv preprint arXiv:2110.06607, 2021. [[paper](https://arxiv.org/pdf/2110.06607)]
-- [x] MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/JunweiLiang/Multiverse)]
+- [x] ~~MSN: Multi-Style Network for Trajectory Prediction, arXiv preprint arXiv:2107.00932, 2021. [[paper](https://arxiv.org/pdf/2107.00932.pdf)] [[code](https://github.com/JunweiLiang/Multiverse)]~~
 * Rethinking Trajectory Forecasting Evaluation, arXiv preprint arXiv:2107.10297, 2021. [[paper](https://arxiv.org/pdf/2107.10297)]
 * Pedestrian Trajectory Prediction via Spatial Interaction Transformer Network, IEEE Intelligent Vehicles Symposium Workshops (IV Workshops 2021). [[paper](https://arxiv.org/pdf/2112.06624)]
 * Deep Social Force, arXiv preprint arXiv:2109.12081, 2021. [[paper](https://arxiv.org/pdf/2109.12081)] [[code](https://github.com/svenkreiss/socialforce)]
 
 # 2022 Conference and Journal Papers
 ## Conference Papers 2022
-- [x] Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]
-- [x] Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]
-- [x] Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]
-- [x] You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.05304.pdf)]
+- [x] ~~Social Interpretable Tree for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1531.ShiL.pdf)] [[code](https://github.com/shuaishiliu/SIT)]~~
+- [x] ~~Complementary Attention Gated Network for Pedestrian Trajectory Prediction, AAAI 2022. [[paper](https://www.aaai.org/AAAI22Papers/AAAI-1963.DuanJ.pdf)] [[code](https://github.com/jinghaiD/CAGN)]~~
+- [x] ~~Scene Transformer: A unified architecture for predicting future trajectories of multiple agents, ICLR 2022. [[paper](https://openreview.net/pdf?id=Wm3EA5OlHsG)]~~
+- [x] ~~You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction, ICLR 2022. [[paper](https://arxiv.org/pdf/2110.05304.pdf)]~~
 * Latent Variable Sequential Set Transformers For Joint Multi-Agent Motion Prediction, ICLR 2022. [[paper](https://openreview.net/pdf?id=Dup_dDqkZC5)] [[code](https://fgolemo.github.io/autobots/)]
-- [x] Remember Intentions: Retrospective-Memory-based Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11474.pdf)] [[code](https://github.com/MediaBrain-SJTU/MemoNet)]
-- [x] STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.01026.pdf)] [[code](https://github.com/4DVLab/STCrowd.git)]
+- [x] ~~Remember Intentions: Retrospective-Memory-based Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11474.pdf)] [[code](https://github.com/MediaBrain-SJTU/MemoNet)]~~
+- [x] ~~STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.01026.pdf)] [[code](https://github.com/4DVLab/STCrowd.git)]~~
 * Vehicle trajectory prediction works, but not everywhere, CVPR 2022. [[paper](https://arxiv.org/pdf/2112.03909.pdf)] [[code](https://s-attack.github.io/)]
-- [x] Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.13777.pdf)] [[code](https://github.com/gutianpei/MID)]
-- [x] Non-Probability Sampling Network for Stochastic Human Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.13471.pdf)] [[code](https://github.com/inhwanbae/NPSN)]
+- [x] ~~Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.13777.pdf)] [[code](https://github.com/gutianpei/MID)]~~
+- [x] ~~Non-Probability Sampling Network for Stochastic Human Trajectory Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.13471.pdf)] [[code](https://github.com/inhwanbae/NPSN)]~~
 * On Adversarial Robustness of Trajectory Prediction for Autonomous Vehicles, CVPR 2022. [[paper](https://arxiv.org/pdf/2201.05057.pdf)] [[code](https://github.com/zqzqz/AdvTrajectoryPrediction)]
 * Adaptive Trajectory Prediction via Transferable GNN, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.05046.pdf)]
-- [x] Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective, CVPR 2022. [[paper](https://arxiv.org/pdf/2111.14820.pdf)] [[code](https://github.com/vita-epfl/causalmotion), [code](https://github.com/sherwinbahmani/ynet_adaptive)]
-- [x] How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.04781.pdf)]
+- [x] ~~Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective, CVPR 2022. [[paper](https://arxiv.org/pdf/2111.14820.pdf)] [[code](https://github.com/vita-epfl/causalmotion), [code](https://github.com/sherwinbahmani/ynet_adaptive)]~~
+- [x] ~~How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.04781.pdf)]~~
 * Learning from All Vehicles, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.11934.pdf)] [[code](https://github.com/dotchen/LAV)]
 * Forecasting from LiDAR via Future Object Detection, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16297.pdf)] [[code](https://github.com/neeharperi/FutureDet)]
-- [x] End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16910.pdf)] [[code](https://github.com/Kguo-cs/TDOR)]
-- [x] M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2202.11884.pdf)] [[code](https://tsinghua-mars-lab.github.io/M2I/)]
-- [x] GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.08770.pdf)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)]
+- [x] ~~End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps, CVPR 2022. [[paper](https://arxiv.org/pdf/2203.16910.pdf)] [[code](https://github.com/Kguo-cs/TDOR)]~~
+- [x] ~~M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction, CVPR 2022. [[paper](https://arxiv.org/pdf/2202.11884.pdf)] [[code](https://tsinghua-mars-lab.github.io/M2I/)]~~
+- [x] ~~GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning, CVPR 2022. [[paper](https://arxiv.org/pdf/2204.08770.pdf)] [[code](https://github.com/MediaBrain-SJTU/GroupNet)]~~
 * Whose Track Is It Anyway? Improving Robustness to Tracking Errors with Affinity-Based Prediction, CVPR 2022. [[paper](https://xinshuoweng.com/papers/Affinipred/camera_ready.pdf)]
-- [x] ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)]
-- [x] Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)] [[code](https://github.com/Jacobieee/ST-MR)]
-- [x] MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf)]
-- [x] LTP: Lane-based Trajectory Prediction for Autonomous Driving, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_LTP_Lane-Based_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2022_paper.pdf)]
-- [x] ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf)]
-- [x] Human Trajectory Prediction with Momentary Observation, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)]
-- [x] HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)] [[code](https://github.com/ZikangZhou/HiVT)]
+- [x] ~~ScePT: Scene-consistent, Policy-based Trajectory Predictions for Planning, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_ScePT_Scene-Consistent_Policy-Based_Trajectory_Predictions_for_Planning_CVPR_2022_paper.pdf)]~~
+- [x] ~~Graph-based Spatial Transformer with Memory Replay for Multi-future Pedestrian Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Graph-Based_Spatial_Transformer_With_Memory_Replay_for_Multi-Future_Pedestrian_Trajectory_CVPR_2022_paper.pdf)] [[code](https://github.com/Jacobieee/ST-MR)]~~
+- [x] ~~MUSE-VAE: Multi-Scale VAE for Environment-Aware Long Term Trajectory Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_MUSE-VAE_Multi-Scale_VAE_for_Environment-Aware_Long_Term_Trajectory_Prediction_CVPR_2022_paper.pdf)]~~
+- [x] ~~LTP: Lane-based Trajectory Prediction for Autonomous Driving, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_LTP_Lane-Based_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2022_paper.pdf)]~~
+- [x] ~~ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.pdf)]~~
+- [x] ~~Human Trajectory Prediction with Momentary Observation, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)]~~
+- [x] ~~HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction, CVPR 2022. [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)] [[code](https://github.com/ZikangZhou/HiVT)]~~
 * Path-Aware Graph Attention for HD Maps in Motion Prediction, ICRA 2022. [[paper](https://arxiv.org/pdf/2202.13772.pdf)]
 * Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction, ECCV 2022. [[code](https://github.com/InhwanBae/GPGraph)]
-- [x] Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]
-- [x] Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]
-- [x] SocialVAE: Human Trajectory Prediction using Timewise Latents, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.08207.pdf)] [[code](https://github.com/xupei0610/SocialVAE)]
-- [x] View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums, ECCV 2022. [[paper](https://arxiv.org/pdf/2110.07288.pdf)] [[code](https://github.com/cocoon2wong/Vertical)]
-- [x] Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.06235.pdf)]
+- [x] ~~Social-Implicit: Rethinking Trajectory Prediction Evaluation and The Effectiveness of Implicit Maximum Likelihood Estimation, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.03057.pdf)] [[code](https://github.com/abduallahmohamed/Social-Implicit)]~~
+- [x] ~~Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.04624.pdf)] [[code](https://github.com/d1024choi/HLSTrajForecast)]~~
+- [x] ~~SocialVAE: Human Trajectory Prediction using Timewise Latents, ECCV 2022. [[paper](https://arxiv.org/pdf/2203.08207.pdf)] [[code](https://github.com/xupei0610/SocialVAE)]~~
+- [x] ~~View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums, ECCV 2022. [[paper](https://arxiv.org/pdf/2110.07288.pdf)] [[code](https://github.com/cocoon2wong/Vertical)]~~
+- [x] ~~Entry-Flipped Transformer for Inference and Prediction of Participant Behavior, ECCV 2022. [[paper](https://arxiv.org/pdf/2207.06235.pdf)]~~
 
 ## Journal Papers 2022
 * AI-TP: Attention-based Interaction-aware Trajectory Prediction for Autonomous Driving, IEEE Transactions on Intelligent Vehicles. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9723649)] [[code](https://github.com/KP-Zhang/AI-TP)]
 * MDST-DGCN: A Multilevel Dynamic Spatiotemporal Directed Graph Convolutional Network for Pedestrian Trajectory Prediction, Computational Intelligence and Neuroscience. [[paper](https://downloads.hindawi.com/journals/cin/2022/4192367.pdf)]
 * Graph-Based Spatial-Temporal Convolutional Network for Vehicle Trajectory Prediction in Autonomous Driving, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9737058)]
 * Multi-Agent Trajectory Prediction with Heterogeneous Edge-Enhanced Graph Attention Network, TITS. [[paper](https://dspace.lib.cranfield.ac.uk/bitstream/handle/1826/17541/Multi-agent_trajectory_prediction-2022.pdf?sequence=1&isAllowed=y)]
-- [x] Fully Convolutional Encoder-Decoder With an Attention Mechanism for Practical Pedestrian Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768201)]
+- [x] ~~Fully Convolutional Encoder-Decoder With an Attention Mechanism for Practical Pedestrian Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768201)]~~
 * STGM: Vehicle Trajectory Prediction Based on Generative Model for Spatial-Temporal Features, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743363)]
 * Trajectory Prediction for Autonomous Driving Using Spatial-Temporal Graph Attention Transformer, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9768029)]
 * Intention-Aware Vehicle Trajectory Prediction Based on Spatial-Temporal Dynamic Attention Network for Internet of Vehicles, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9767719)] [[code](https://xbchen82.github.io/resource/)]
-- [x] Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686621&tag=1)]
+- [x] ~~Trajectory Forecasting Based on Prior-Aware Directed Graph Convolutional Neural Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9686621&tag=1)]~~
 * DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9770480)]
 * Interactive Trajectory Prediction Using a Driving Risk Map-Integrated Deep Learning Method for Surrounding Vehicles on Highways, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9745461&tag=1)]
 * Vehicle Trajectory Prediction in Connected Environments via Heterogeneous Context-Aware Graph Convolutional Networks, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9781338)]
 * Learning Sparse Interaction Graphs of Partially Detected Pedestrians for Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9664278)] [[code](https://github.com/tedhuang96/gst)]
 * GAMMA: A General Agent Motion Prediction Model for Autonomous Driving, RAL. [[paper](https://arxiv.org/pdf/1906.01566.pdf)] [[code](https://github.com/AdaCompNUS/gamma)]
-- [x] Stepwise Goal-Driven Networks for Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2103.14107v3.pdf)] [[code](https://github.com/ChuhuaW/SGNet.pytorch)]
-- [x] GA-STT: Human Trajectory Prediction with Group Aware Spatial-Temporal Transformer, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779572)]
+- [x] ~~Stepwise Goal-Driven Networks for Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2103.14107v3.pdf)] [[code](https://github.com/ChuhuaW/SGNet.pytorch)]~~
+- [x] ~~GA-STT: Human Trajectory Prediction with Group Aware Spatial-Temporal Transformer, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9779572)]~~
 * Long-term 4D trajectory prediction using generative adversarial networks, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X22000031)]
 * A context-aware pedestrian trajectory prediction framework for automated vehicles, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X21004423)]
-- [x] CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000334)]
+- [x] ~~CSCNet: Contextual semantic consistency network for trajectory prediction in crowded spaces, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000334)]~~
 * Step Attention: Sequential Pedestrian Trajectory Prediction, IEEE Sensors Journal. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9732437)]
 * Vehicle Trajectory Prediction Method Coupled With Ego Vehicle Motion Trend Under Dual Attention Mechanism, IEEE Transactions on Instrumentation and Measurement. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9749176)]
 * Deep encoder–decoder-NN: A deep learning-based autonomous vehicle trajectory prediction and correction model, Physica A: Statistical Mechanics and its Applications. [[paper](https://www.sciencedirect.com/science/article/pii/S0378437122000139)]
@@ -495,7 +495,7 @@
 * PTP-STGCN: Pedestrian Trajectory Prediction Based on a Spatio-temporal Graph Convolutional Neural Network, Applied Intelligence. [[paper](https://link.springer.com/article/10.1007/s10489-022-03524-1)]
 
 ## Others 2022
-- [x] Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]
+- [x] ~~Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]~~
 * Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
 * StopNet: Scalable Trajectory and Occupancy Prediction for Urban Autonomous Driving, arXiv:2206.00991, 2022. [[paper](https://arxiv.org/pdf/2206.00991.pdf)]
 * TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model, arXiv:2201.02941, 2022. [[paper](https://arxiv.org/pdf/2201.02941v1.pdf)]
@@ -516,7 +516,7 @@
 * Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
 * A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
 * A Survey of Deep Learning Techniques for Autonomous Driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
-- [x] Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
+- [x] ~~Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]~~
 * Vehicle Trajectory Similarity: Models, Methods, and Applications, ACM Computing Surveys (CSUR 2020). [[paper](https://dl.acm.org/doi/pdf/10.1145/3406096)]
 * Deep Learning-Based Vehicle Behavior Prediction for Autonomous Driving Applications: A Review, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158529)]
 * Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210154)]
