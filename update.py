@@ -2,7 +2,7 @@
 @Author: Conghao Wong
 @Date: 2022-07-21 16:45:48
 @LastEditors: Conghao Wong
-@LastEditTime: 2022-07-21 17:19:09
+@LastEditTime: 2022-07-21 20:07:02
 @Description: file content
 @Github: https://github.com/cocoon2wong
 @Copyright 2022 Conghao Wong, All Rights Reserved.
@@ -43,6 +43,7 @@ if __name__ == '__main__':
                     print('Find {}.'.format(path))
 
                     lines[index] = '- [x] ~~' + line[2:-1] + '~~' + '\n' 
+                    break
 
     with open(TARGET_FILE, 'w+') as f:
         f.writelines(lines)
